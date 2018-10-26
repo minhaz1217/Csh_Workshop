@@ -1,0 +1,5 @@
+c:\users\2014-3-60-001\documents\visual studio 2012\Projects\Csh_Workshop_day1\Csh_Workshop_day1\bin\Debug\Csh_Workshop_day1.exe.config
+c:\users\2014-3-60-001\documents\visual studio 2012\Projects\Csh_Workshop_day1\Csh_Workshop_day1\bin\Debug\Csh_Workshop_day1.exe
+c:\users\2014-3-60-001\documents\visual studio 2012\Projects\Csh_Workshop_day1\Csh_Workshop_day1\bin\Debug\Csh_Workshop_day1.pdb
+c:\users\2014-3-60-001\documents\visual studio 2012\Projects\Csh_Workshop_day1\Csh_Workshop_day1\obj\Debug\Csh_Workshop_day1.exe
+c:\users\2014-3-60-001\documents\visual studio 2012\Projects\Csh_Workshop_day1\Csh_Workshop_day1\obj\Debug\Csh_Workshop_day1.pdb
