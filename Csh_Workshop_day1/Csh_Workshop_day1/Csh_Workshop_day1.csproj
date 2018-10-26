@@ -41,12 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Template.cs" />
+    <None Include="Template.cs" />
     <None Include="1_ConsoleEdits.cs" />
     <None Include="2_Beep.cs" />
     <None Include="3_CursorSize.cs" />
     <None Include="4_Variables.cs" />
     <None Include="5_Arithmatic_Operator.cs" />
+    <Compile Include="6_Data_Type.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
