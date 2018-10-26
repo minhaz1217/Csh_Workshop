@@ -6,12 +6,7 @@
 ### Jannat Binte Alam
 ### Mushfiqur Rahman
 
-
+------------
+Student:
+------------
 Minhazul Hayat Khan
-
-
-
-
-
-
-
