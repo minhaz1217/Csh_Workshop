@@ -3,10 +3,10 @@
 >3 days workshop on C# 
 ## Insturctors: 
 ------------
-### Jannat Binte Alam
-### Mushfiqur Rahman
+### 1. Jannat Binte Alam
+### 2. Mushfiqur Rahman
 
 ------------
-Student:
+Work By:
 ------------
 Minhazul Hayat Khan
