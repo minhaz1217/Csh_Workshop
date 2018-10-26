@@ -1,11 +1,13 @@
 # Workshop on C# Programming : Learn To Build
 ====================================
 >3 days workshop on C# 
-Insturctors: 
+## Insturctors: 
 ------------
-## Jannat Binte Alam
-## Mushfiqur Rahman
+### Jannat Binte Alam
+### Mushfiqur Rahman
 
+
+Minhazul Hayat Khan
 
 
 
